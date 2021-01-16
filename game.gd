@@ -31,7 +31,7 @@ func _ready():
 	var size = exes.size()
 	exes.remove(size-1)
 	#dir = exes.join("/")+"/cards/"
-	dir = "/www/wwwroot/olmap/cards/"
+	dir = "http://olmap.deadpoetspoon.xyz/cards/"
 	print(dir)
 
 
